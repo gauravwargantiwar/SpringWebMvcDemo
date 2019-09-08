@@ -8,6 +8,6 @@
 </head>
 <body>
  
- Result is :$(result)
+ Result is : ${result}
 </body>
 </html>
